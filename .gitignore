@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Custom
+/.yarn
+.pnp.cjs
+.pnp.loader.mjs
